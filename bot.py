@@ -6,7 +6,7 @@ from aiogram.types import Message, CallbackQuery, LabeledPrice, PreCheckoutQuery
 from aiogram.utils.keyboard import InlineKeyboardBuilder
 
 # ================= НАСТРОЙКИ =================
-BOT_TOKEN = '9071984522:AAFIU70ifO_euAGb4O2oiWO2MQyhd34RFto'
+BOT_TOKEN = '9071984522:AAE_GLgzZD774mwh0ORC1Y7nLAWHL4Nyb20'
 ADMIN_ID = 5029096746
 CHANNEL_ID = "@Make_bots155"
 # =============================================
