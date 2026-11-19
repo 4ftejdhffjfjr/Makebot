@@ -1,3 +1,4 @@
 cryptography
 python-dotenv
 pyTelegramBotAPI
+aiogram>=3.0
