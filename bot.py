@@ -31,7 +31,7 @@ socket.getaddrinfo = new_getaddrinfo
 # ==========================================
 # --- НАСТРОЙКИ ---
 # ==========================================
-BOT_TOKEN = "9071984522:AAGQgBn4mzzeixs0bbLq-Fu7JOgS9CJwAEQ"    
+BOT_TOKEN = "9071984522:AAEgR0DLK2Enzz6fIoZVjWKewsXHKOKVnnA"    
 ADMIN_ID = 5029096746             
 REQUIRED_CHANNEL = "@Make_bots155"     
 CONTACT_TEXT = "📞 Наши контакты:\nТелефон: +7 (995) 412-89-08\nАдмин: @Plot1335"
